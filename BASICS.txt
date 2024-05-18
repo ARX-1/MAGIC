@@ -43,5 +43,18 @@ for i in range(n):
 <title>názov</title>
 </head>
 <body>
+	<p></p>
+<table>
+<tr> - riadok 
+	<td> - bunka </td> 
+	<td colspan="3"> bunka posunuta o tri </td>
+</tr>
+<ul> - bodkovy_zoznam
+	<li> - riadok </li>
+</ul>
+<ol> - ciselny_zoznam
+	<li> </li>
+</ol>
+<img src="/images/doska.JPG", alt="doska.JPG">
 </body>
 </html>
